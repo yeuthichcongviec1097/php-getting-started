@@ -104,11 +104,11 @@ if(isset($_GET['pro_id'])){
                            
                            if(!isset($_SESSION['customer_email'])){
                        
-                                echo "<a href='checkout.php'> Login </a>";
+                                echo "<a href='../checkout.php'> Login </a>";
 
                                }else{
 
-                                echo " <a href='logout.php'> Log Out </a> ";
+                                echo " <a href='../logout.php'> Log Out </a> ";
 
                                }
                            
@@ -133,8 +133,8 @@ if(isset($_GET['pro_id'])){
                
                <a href="../index.php" class="navbar-brand home"><!-- navbar-brand home Begin -->
                    
-                    <img src="images/ATNToy.png" style="width: 55px" alt="M-dev-Store Logo" class="hidden-xs">
-                   <img src="images/ATNToy.png" style="width: 55px" alt="M-dev-Store Logo Mobile" class="visible-xs">
+                   <img src="images/ATNToy.png" style="width: 55px" alt="ATNStore Logo" class="hidden-xs">
+                   <img src="images/ATNToy.png" style="width: 55px" alt="ATNStore Logo Mobile" class="visible-xs">
                    
                </a><!-- navbar-brand home Finish -->
                

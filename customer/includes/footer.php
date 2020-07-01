@@ -103,10 +103,12 @@
                 
                 <p><!-- p Start -->
                     
-                    <strong>M-Ken Media inc.</strong>
-                    <br/>0796750305
-                    <br/>bao1552000@gmail.com
-                    <br/><strong>MrKendy</strong>
+                <strong>ATNTOY inc.</strong>
+                    <br/>ATNTOY
+                    <br/>ATNTOY
+                    <br/>0123-4567-8910
+                    <br/>ATNTOY@gmail.com
+                    <br/><strong>ATNadmin</strong>
                     
                 </p><!-- p Finish -->
                 
@@ -162,12 +164,12 @@
     <div class="container"><!-- container Begin -->
         <div class="col-md-6"><!-- col-md-6 Begin -->
             
-            <p class="pull-left">&copy; 2018 M-Dev Store All Rights Reserve</p>
+            <p class="pull-left">&copy; 2020 ATNTOY All Rights Reserve</p>
             
         </div><!-- col-md-6 Finish -->
         <div class="col-md-6"><!-- col-md-6 Begin -->
             
-            <p class="pull-right">Theme by: <a href="#">MrGhie</a></p>
+            <p class="pull-right">Theme by: <a href="#">AdminATN</a></p>
             
         </div><!-- col-md-6 Finish -->
     </div><!-- container Finish -->
