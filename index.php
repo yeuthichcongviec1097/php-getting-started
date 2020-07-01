@@ -21,14 +21,14 @@
                </ol><!-- carousel-indicators Finish -->
                
                <div class="carousel-inner"><!-- carousel-inner Begin -->
-                  
-                  <?php 
+
+               <?php 
                    
                    $get_slides = "select * from slider LIMIT 0,1";
                    
                    $run_slides = mysqli_query($con,$get_slides);
                    
-                   while($row_slides=mysqli_fetch_array($run_slides)){
+                   while($row_slides = mysqli_fetch_array($run_slides)){
                        
                        $slide_name = $row_slides['slide_name'];
                        $slide_image = $row_slides['slide_image'];
@@ -37,7 +37,7 @@
                        
                        <div class='item active'>
                        
-                       <img src='admin_area/slides_images/$slide_image'>
+                            <img style='margin: auto;' src='admin_area/slides_images/$slide_image'>
                        
                        </div>
                        
@@ -58,7 +58,7 @@
                        
                        <div class='item'>
                        
-                       <img src='admin_area/slides_images/$slide_image'>
+                       <img style='margin: auto;' style src='admin_area/slides_images/$slide_image'>
                        
                        </div>
                        
@@ -106,24 +106,9 @@
                            
                        </div><!-- icon Finish -->
                        
-                       <h3>
-                       <html>
-   
-
-   <body>
-   
-       <?php
-         $text = 'Best Offer';  
-		 $text = preg_replace('/(\b[a-z])/i','<span style="color:blue;">\1</span>',$text);  
-		 echo $text;
-       ?>
-       
-   </body>
-</html>
-                           <a href="#"></a>
-                    </h3>
+                       <h3><a href="#">Best Offer</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                       <p>Dedicated service, enthusiastic advice. </p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -141,7 +126,7 @@
                        
                        <h3><a href="#">Best Prices</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Best price products in the market.</p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -157,18 +142,9 @@
                            
                        </div><!-- icon Finish -->
                        
-                       <h3><body>
-   
-   <?php
-     $text = 'Best Offer';  
-     $text = preg_replace('/(\b[a-z])/i','<span style="color:blue;">\1</span>',$text);  
-     echo $text;
-   ?>
-   
-</body>
-</html></h3>
+                       <h3><a href="#">100% Original</a></h3>
                        
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                       <p>Pure products are non-toxic, clear treatment.</p>
                        
                    </div><!-- box same-height Finish -->
                    
@@ -187,24 +163,10 @@
            <div class="container"><!-- container Begin -->
                
                <div class="col-md-12"><!-- col-md-12 Begin -->
-               <html>
-      <h2>
-   <head>
-      <title>Our Latest Products</title>
-   </head>
-   <body>
-   
-       <?php
-         $text = 'Our Latest Products';  
-		 $text = preg_replace('/(\b[a-z])/i','<span style="color:red;">\1</span>',$text);  
-		 echo $text;
-       ?>
-       
-   </body>
-</html>
-        </h2>          
-                       
-                 
+                   
+                   <h2>
+                       Our Latest Products
+                   </h2>
                    
                </div><!-- col-md-12 Finish -->
                
@@ -217,26 +179,22 @@
    <div id="content" class="container"><!-- container Begin -->
        
        <div class="row"><!-- row Begin -->
-          
-          <?php 
-           
-           getPro();
-           
-           ?>
+
+       <?php 
+            getpro();
+       ?>
            
        </div><!-- row Finish -->
        
    </div><!-- container Finish -->
-   
-   <?php 
-    
-    include("includes/footer.php");
-    
-    ?>
+
+   <?php
+        include("includes/footer.php");
+   ?>
     
     <script src="js/jquery-331.min.js"></script>
     <script src="js/bootstrap-337.min.js"></script>
     
-
+    
 </body>
 </html>
