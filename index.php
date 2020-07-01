@@ -157,15 +157,330 @@
    <div id="content" class="container"><!-- container Begin -->
        
        <div class="row"><!-- row Begin -->
-
-       <?php 
-            getpro();
-       ?>
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Woman T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-2.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Man T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-3.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Woman T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-4.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Man T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-5.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Man T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-6.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Woman T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-7.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Man T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
+           
+           <div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single Begin -->
+               
+               <div class="product"><!-- product Begin -->
+                   
+                   <a href="details.php">
+                       
+                       <img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
+                       
+                   </a>
+                   
+                   <div class="text"><!-- text Begin -->
+                       
+                       <h3>
+                           <a href="details.php">
+                               M-Dev Woman T-Shirt
+                           </a>
+                       </h3>
+                       
+                       <p class="price">$30</p>
+                       
+                       <p class="button">
+                           
+                           <a href="details.php" class="btn btn-default">View Details</a>
+                           
+                           <a href="details.php" class="btn btn-primary">
+                               
+                               <i class="fa fa-shopping-cart">
+                                   Add To Cart
+                               </i>
+                               
+                           </a>
+                           
+                       </p>
+                       
+                   </div><!-- text Finish -->
+                   
+               </div><!-- product Finish -->
+               
+           </div><!-- col-sm-4 col-sm-6 single Finish -->
            
        </div><!-- row Finish -->
        
    </div><!-- container Finish -->
-
    <?php
         include("includes/footer.php");
    ?>
